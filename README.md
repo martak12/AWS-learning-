@@ -15,6 +15,10 @@
 - Type: Hands-on Lab
 - Focus: AWS networking and virtual private clouds.
 
+### 4. Introduction to Amazon Relational Database Service (RDS) (Linux)
+  - Create an Amazon RDS instance
+  - Connect to the RDS Instance using the AWS Systems Manager Session Manager.
+  
 **Topics covered:**
 - Creating an Amazon VPC.
 - Creating public and private subnets.
